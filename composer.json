@@ -17,5 +17,10 @@
             "Ford\\Fusion\\": "src/Ford/Fusion",
             "Ford\\Focus\\": "src/Ford/Focus"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev"
+        }
     }
 }
